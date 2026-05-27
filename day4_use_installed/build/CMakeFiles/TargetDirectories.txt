@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day4_use_installed/build/CMakeFiles/use_installed.dir
+/home/kris-lee/cpp-ai-learning/day4_use_installed/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day4_use_installed/build/CMakeFiles/rebuild_cache.dir

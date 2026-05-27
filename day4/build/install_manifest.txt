@@ -1,0 +1,2 @@
+/home/kris-lee/cpp-ai-learning/day4/install/lib/libmy_math.a
+/home/kris-lee/cpp-ai-learning/day4/install/include/my_math/my_math.h

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/use_installed.dir/main.cpp.o -o use_installed  /home/kris-lee/cpp-ai-learning/day4/install/lib/libmy_math.a 

@@ -1,0 +1,19 @@
+Start testing: May 27 22:12 CST
+----------------------------------------------------------
+1/1 Testing: MathTest
+1/1 Test: MathTest
+Command: "/home/kris-lee/cpp-ai-learning/day4/build/test_math"
+Directory: /home/kris-lee/cpp-ai-learning/day4/build
+"MathTest" start time: May 27 22:12 CST
+Output:
+----------------------------------------------------------
+test_add : PASSED
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MathTest" end time: May 27 22:12 CST
+"MathTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 27 22:12 CST
