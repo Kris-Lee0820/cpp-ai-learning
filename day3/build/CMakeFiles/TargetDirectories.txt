@@ -1,0 +1,8 @@
+/home/kris-lee/cpp-ai-learning/day3/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day3/build/CMakeFiles/rebuild_cache.dir
+/home/kris-lee/cpp-ai-learning/day3/build/math_lib/CMakeFiles/my_math.dir
+/home/kris-lee/cpp-ai-learning/day3/build/math_lib/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day3/build/math_lib/CMakeFiles/rebuild_cache.dir
+/home/kris-lee/cpp-ai-learning/day3/build/app/CMakeFiles/day3_app.dir
+/home/kris-lee/cpp-ai-learning/day3/build/app/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day3/build/app/CMakeFiles/rebuild_cache.dir

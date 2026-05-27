@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/day3_app.dir/main.cpp.o -o day3_app  ../math_lib/libmy_math.a 
