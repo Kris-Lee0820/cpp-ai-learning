@@ -1,0 +1,3 @@
+D:/MyVsCodeProject/build/CMakeFiles/MyTestProject.dir
+D:/MyVsCodeProject/build/CMakeFiles/ALL_BUILD.dir
+D:/MyVsCodeProject/build/CMakeFiles/ZERO_CHECK.dir
