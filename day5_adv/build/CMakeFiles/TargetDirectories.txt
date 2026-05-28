@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day5_adv/build/CMakeFiles/opencv_demo.dir
+/home/kris-lee/cpp-ai-learning/day5_adv/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day5_adv/build/CMakeFiles/rebuild_cache.dir
