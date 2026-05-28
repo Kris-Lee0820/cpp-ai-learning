@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day5/build/CMakeFiles/smart_ptr.dir
+/home/kris-lee/cpp-ai-learning/day5/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day5/build/CMakeFiles/rebuild_cache.dir
