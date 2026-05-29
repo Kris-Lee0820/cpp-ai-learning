@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day6_adv/build/CMakeFiles/video_demo.dir
+/home/kris-lee/cpp-ai-learning/day6_adv/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day6_adv/build/CMakeFiles/rebuild_cache.dir
