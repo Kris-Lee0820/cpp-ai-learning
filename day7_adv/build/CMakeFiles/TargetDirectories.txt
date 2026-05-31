@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day7_adv/build/CMakeFiles/face_detect.dir
+/home/kris-lee/cpp-ai-learning/day7_adv/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day7_adv/build/CMakeFiles/rebuild_cache.dir
