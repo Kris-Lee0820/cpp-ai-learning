@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day8_yunet/build/CMakeFiles/video_process.dir
+/home/kris-lee/cpp-ai-learning/day8_yunet/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day8_yunet/build/CMakeFiles/rebuild_cache.dir
