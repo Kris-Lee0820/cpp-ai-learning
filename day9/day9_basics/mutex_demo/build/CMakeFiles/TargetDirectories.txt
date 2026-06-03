@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day9_basics/mutex_demo/build/CMakeFiles/thread_demo.dir
+/home/kris-lee/cpp-ai-learning/day9_basics/mutex_demo/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day9_basics/mutex_demo/build/CMakeFiles/rebuild_cache.dir

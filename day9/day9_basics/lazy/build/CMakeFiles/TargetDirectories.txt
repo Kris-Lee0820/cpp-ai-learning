@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day9_basics/lazy/build/CMakeFiles/face_detect_dnn.dir
+/home/kris-lee/cpp-ai-learning/day9_basics/lazy/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day9_basics/lazy/build/CMakeFiles/rebuild_cache.dir
