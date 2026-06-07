@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day10/image_processor_advanced/build/CMakeFiles/test_advanced.dir
+/home/kris-lee/cpp-ai-learning/day10/image_processor_advanced/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day10/image_processor_advanced/build/CMakeFiles/rebuild_cache.dir
