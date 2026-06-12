@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day11/tbb_block_blur/build/CMakeFiles/tbb_block_blur.dir
+/home/kris-lee/cpp-ai-learning/day11/tbb_block_blur/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day11/tbb_block_blur/build/CMakeFiles/rebuild_cache.dir

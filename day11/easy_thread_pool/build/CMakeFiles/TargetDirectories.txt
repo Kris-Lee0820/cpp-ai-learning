@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day11/easy_thread_pool/build/CMakeFiles/test_easy_threadPool.dir
+/home/kris-lee/cpp-ai-learning/day11/easy_thread_pool/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day11/easy_thread_pool/build/CMakeFiles/rebuild_cache.dir

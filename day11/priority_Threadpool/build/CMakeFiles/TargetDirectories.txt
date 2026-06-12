@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day11/priority_Threadpool/build/CMakeFiles/priority_threadpool.dir
+/home/kris-lee/cpp-ai-learning/day11/priority_Threadpool/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day11/priority_Threadpool/build/CMakeFiles/rebuild_cache.dir

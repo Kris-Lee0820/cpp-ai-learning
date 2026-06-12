@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day11/intel_tbb/build/CMakeFiles/parallel_tbb.dir
+/home/kris-lee/cpp-ai-learning/day11/intel_tbb/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day11/intel_tbb/build/CMakeFiles/rebuild_cache.dir
