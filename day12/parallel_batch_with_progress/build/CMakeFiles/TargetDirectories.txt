@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day12/parallel_batch_with_progress/build/CMakeFiles/parallel_batch_with_progress.dir
+/home/kris-lee/cpp-ai-learning/day12/parallel_batch_with_progress/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day12/parallel_batch_with_progress/build/CMakeFiles/rebuild_cache.dir

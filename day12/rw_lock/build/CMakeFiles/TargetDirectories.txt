@@ -1,0 +1,3 @@
+/home/kris-lee/cpp-ai-learning/day12/rw_lock/build/CMakeFiles/test_rw_lock.dir
+/home/kris-lee/cpp-ai-learning/day12/rw_lock/build/CMakeFiles/edit_cache.dir
+/home/kris-lee/cpp-ai-learning/day12/rw_lock/build/CMakeFiles/rebuild_cache.dir
